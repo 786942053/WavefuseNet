@@ -1,3 +1,4 @@
 # WavefuseNet
 The paper is currently in the submission cycle, and the code will be made available once the paper is accepted.
 We currently only upload a model weight file that has been trained on the WHU data set for reference.
+WHU数据集上的训练模型可通过链接    [https://pan.baidu.com/s/1KLve34Wt8BsJTKwwHnUUGQ](https://pan.baidu.com/s/1Tom1tMFwqdTGDrj8E3W_HQ?pwd=5k1f)    获取
